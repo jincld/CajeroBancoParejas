@@ -1,0 +1,21 @@
+.container{
+    background-color: #EAEAEA;
+    width:50%;
+}
+
+.banner{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+}
+
+.retirar{
+    width: 100%;
+    font-size: 23px;
+}
+
+.parrafo{
+    text-align: center;
+    font-size: 15px;
+}
